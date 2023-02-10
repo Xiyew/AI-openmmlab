@@ -5,7 +5,7 @@ ballow数据集处理
 链接：https://pan.baidu.com/s/10Q5h9r_U30JQKuNTc8Dp7A 
 提取码：mmcv
 
-视频gif
+视频gif -- video
 ![image](https://github.com/08x03/AI-openmmlab/blob/main/work2/video/color_splash.gif)
 
 
