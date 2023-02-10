@@ -6,5 +6,6 @@ ballow数据集处理
 提取码：mmcv
 
 视频gif
- ![image]( https://github.com/08x03/AI-openmmlab/blob/main/work2/video/color_splash.gif)
+![image](https://github.com/08x03/AI-openmmlab/blob/main/work2/video/color_splash.gif)
+
 
